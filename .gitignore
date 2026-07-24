@@ -1,0 +1,12 @@
+.claude
+
+# python
+.ruff_cache
+__pycache__
+.venv
+uv.lock
+
+data
+docs/_*.md
+LlamaFactory
+*.json

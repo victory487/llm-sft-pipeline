@@ -1,0 +1,9 @@
+[project]
+name = "sft-pipeline"
+version = "0.1.0"
+description = "SFT pipeline for LLM."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "tqdm>=4.69.0",
+]
